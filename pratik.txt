@@ -1,2 +1,9 @@
-helan bhai sanchai
 
+
+helan bhai sanchai
+#include<stdio.h>
+int main(){
+int a[20]="Helan";
+printf("%s",a);
+
+}
